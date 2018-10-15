@@ -1,1 +1,4 @@
 ma petite date confite
+=======
+coucou
+>>>>>>> exercice3_fabien
